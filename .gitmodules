@@ -1,0 +1,3 @@
+[submodule "raspi-dashboard-server/vendor/clay"]
+	path = raspi-dashboard-server/vendor/clay
+	url = https://github.com/nicbarker/clay/
